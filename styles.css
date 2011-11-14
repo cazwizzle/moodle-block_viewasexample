@@ -1,0 +1,9 @@
+.block-viewasexample-nevershow {
+    font-size: 0.771em;
+    color: #444;
+    text-align: right;
+}
+.block-viewasexample-nevershow label {
+    position: relative;
+    top: -2px;
+}
